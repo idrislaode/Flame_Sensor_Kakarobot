@@ -7,7 +7,7 @@ http://instagram.com/kakarobot
 
 == License ==
 
-Copyright (c) 207 www.kakarobot.id All right reserved.
+Copyright (c) 2021 www.kakarobot.id All right reserved.
 
 This library is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
